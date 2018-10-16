@@ -1,2 +1,5 @@
-# hello-world
-My re-introduction into the world of coding, programming, and git 
+## hello-world
+
+# My re-introduction into the world of Coding, Programming, and Git as a whole.
+
+I hope this goes well
